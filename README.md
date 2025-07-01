@@ -25,14 +25,6 @@
 
 <hr>
 
-<h2>📱 Screenshots</h2>
-
-<p>*(Add your screenshots below!)*</p>
-
-<img src="link-to-your-screenshot.png" width="300"/>
-
-<hr>
-
 <h2>🚀 How to Run</h2>
 
 <ol>
